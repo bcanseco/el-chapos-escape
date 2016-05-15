@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "title": "Lockpick",
+        "slug":  "lockpick_item"
+    },
+    {
+        "id": 1,
+        "title": "Shank",
+        "slug": "shank_item"
+    },
+    {
+        "id": 2,
+        "title": "Key",
+        "slug": "key_item"
+    }
+]
