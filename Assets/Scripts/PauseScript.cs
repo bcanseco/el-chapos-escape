@@ -69,7 +69,7 @@ public class PauseScript : MonoBehaviour {
 
 	void PauseGame(bool state) {
 		if (state) {
-            //Cursor.lockState = CursorLockMode.Confined;
+            Cursor.lockState = CursorLockMode.Confined;
 			Cursor.visible = true;
 			(GameObject.Find("FPSController").GetComponent("FirstPersonController") as MonoBehaviour).enabled = false;
 			pauseScreen.SetActive(true);
