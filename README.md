@@ -3,9 +3,9 @@ ECE is an adrenaline-fueled stealth game. You play as a Mexican drug lord inside
 
 This was the final Unity project for my game design course at Florida Tech. I was responsible for the map as well as several scripts and animations. For more information, please feel free to check out our [final presentation](https://docs.google.com/presentation/d/1Jc25hLP9fhaEirJv3-eG2NSSb0fBIfijxMbuSG7LjEs/pub?start=false&loop=false&delayms=3000).
   
-<img src="https://borja.io/images/game_1.png" width="555">
-<img src="https://borja.io/images/game_2.png" width="555">
-<img src="https://borja.io/images/game_3.png" width="555">
+![](./game_1.png)
+![](./game_2.png)
+![](./game_3.png)
 
 #### CSE 4285, group #4 (Spring 2016)
 * Anthony Alves - aalves2012@my.fit.edu
